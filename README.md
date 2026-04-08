@@ -5,6 +5,13 @@ You can **add, edit, delete, and sort movies** stored in the browser's **localSt
 
 ---
 
+## 📸 Preview
+
+Live Preview Link:
+https://shineshinimo.github.io/film-manager-ls/
+
+---
+
 ## 🚀 Features
 
 - ➕ Add new movies with details:
@@ -59,7 +66,3 @@ You can **add, edit, delete, and sort movies** stored in the browser's **localSt
    - Use the **Sort** dropdown to organize the list  
 
 ---
-
-## 📸 Preview
-
-Currently in progress...
